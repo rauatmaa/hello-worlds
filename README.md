@@ -1,2 +1,2 @@
 # hello-worlds
-store ideas, resources, share and discuss things with others
+Store ideas, resources, share and discuss things with others.
